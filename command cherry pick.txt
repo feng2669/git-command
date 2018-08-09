@@ -1,2 +1,4 @@
 命令：cherry pick
 作用：合并某个分支上的单个commit
+
+如何需要合并一系列相连的commits，rebase更合适！
