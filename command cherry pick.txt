@@ -1,1 +1,2 @@
 命令：cherry pick
+作用：合并某个分支上的单个commit
