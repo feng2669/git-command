@@ -1,3 +1,5 @@
 命令：init
 
 作用：init
+
+用clone获取git项目
